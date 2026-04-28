@@ -1,0 +1,50 @@
+# ── Dataset images (too large for GitHub) ──────────────────
+data/train_images/
+data/test_images/
+train_images*/
+test_images*/
+
+# ── Full CSVs (keep only sample rows) ──────────────────────
+data/train.csv
+data/index_text_test.csv
+
+# ── Model weights ───────────────────────────────────────────
+*.pth
+*.pkl
+*.bin
+*.safetensors
+*.h5
+
+# ── Submission file (generated output) ─────────────────────
+final_submission.csv
+
+# ── Python ─────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# ── Jupyter ─────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ── Environment ─────────────────────────────────────────────
+.env
+.venv/
+env/
+venv/
+
+# ── HuggingFace / Torch cache ───────────────────────────────
+/root/.cache/
+~/.cache/huggingface/
+~/.cache/torch/
+
+# ── OS ──────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
