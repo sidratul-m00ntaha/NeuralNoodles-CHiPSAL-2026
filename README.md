@@ -133,7 +133,7 @@ NeuralNoodles-CHiPSAL-2026/
 │   ├── methodology_diagram.png
 │
 └── paper/
-    ├── NeuralNoodles_CHiPSAL2026.pdf    # Accepted paper
+    ├── NeuralNoodles_CHiPSAL_2026_Late_Fusion_Multimodal_Stacking_for_Nepali_Meme_Sentiment_Classification.pdf    # Accepted paper
 ```
 
 ---
@@ -206,7 +206,7 @@ python src/predict.py
 - **Class-balanced training:** All classifiers use `class_weight='balanced'` to handle label imbalance.
 - **EfficientNet-B0:** Lightweight but effective vision backbone; 4 epochs of fine-tuning is sufficient given the small dataset (1,061 samples).
 
----
+<!-- ---
 
 ## Citation
 
@@ -221,7 +221,7 @@ If you use this work, please cite:
                South Asian Languages (CHiPSAL 2026)},
   year      = {2026}
 }
-```
+``` -->
 
 ---
 
