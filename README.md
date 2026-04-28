@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NeuralNoodles @ CHiPSAL 2026
 
 > **Late-Fusion Multimodal Stacking for Nepali Meme Sentiment Classification**
@@ -238,3 +239,7 @@ If you use this work, please cite:
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+=======
+# NeuralNoodles-CHiPSAL-2026
+Late-Fusion Multimodal Stacking for Nepali Meme Sentiment Classification — CHiPSAL 2026 Shared Task (6th place)
+>>>>>>> e6e933ca921bb89103c8749c03c7eec47df69a18
